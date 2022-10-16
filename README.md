@@ -1,3 +1,3 @@
 # Content Based Recommendation Engine
 
-![Intro Pic]()
+![Intro Pic](cb.jpeg)
